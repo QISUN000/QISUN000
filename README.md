@@ -20,4 +20,7 @@
     <a href="mailto:[lukesun2023@gmail.com]">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-
+<div>
+    <a href="mailto:[your-email]">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" height="30" alt="Email" />
+    </a>

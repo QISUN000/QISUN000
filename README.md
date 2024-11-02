@@ -15,6 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QISUN000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QISUN000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=QISUN000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📫 How to Reach Me
+<div style="display: flex; gap: 10px;">
+    <a href="mailto:[lukesun2023@gmail.com]">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
 
